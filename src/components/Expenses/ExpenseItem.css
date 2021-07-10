@@ -1,0 +1,10 @@
+.font-color{
+    font-size: larger;
+    font-weight: bold;
+    color: azure;
+}
+.space{
+    margin: 2vw
+}
+.element-space{    text-align: center;
+    padding: 2vw;}
